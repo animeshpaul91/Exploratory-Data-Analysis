@@ -1,7 +1,9 @@
 # Exploratory-Data-Analysis
 ### Exploratory Data Analysis using CDC Data
 
-<p> This project aimed at collecting flu data across the United States from CDC API and visualization of this data. Data was collected across varous times in massive sizes. Different charts explaining the trends of data were generated. </p>
+<p> This project was aimed at collecting and visualizing flu data for the United States from CDC API.
+Data was collected across varous times in massive sizes. Different charts explaining the trends of
+data were generated. </p>
 
 ![Home_Page](https://github.com/animeshpaul91/Exploratory-Data-Analysis/blob/master/Part3/www/Plot1.png?raw=true)
 ![Home_Page](https://github.com/animeshpaul91/Exploratory-Data-Analysis/blob/master/Part3/www/Plot10.png?raw=true)
